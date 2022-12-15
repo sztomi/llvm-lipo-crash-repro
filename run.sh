@@ -51,4 +51,4 @@ PrettyStackTrace.cpp.o.d \
 -o \
 PrettyStackTrace.cpp.o \
 -c \
-/Users/tamas/.conan_plex/v2/data/llvm-source/15.0.4-5c68a1cb/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/llvm-project-5c68a1cb123161b54b72ce90e7975d95a8eaf2a4/llvm/lib/Support/PrettyStackTrace.cpp 
+PrettyStackTrace.cpp 
