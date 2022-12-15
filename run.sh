@@ -44,8 +44,6 @@ arm64 \
 -fno-exceptions \
 -fno-rtti \
 -MD \
--MT \
-lib/Support/CMakeFiles/LLVMSupport.dir/PrettyStackTrace.cpp.o \
 -MF \
 PrettyStackTrace.cpp.o.d \
 -o \
