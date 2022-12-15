@@ -1,8 +1,4 @@
 /Users/tamas/.conan_plex/v2/data/clang-bootstrap/15.0.4-5c68a1cb/_/_/package/0dadf5e389aec9c830aab3a96420c9a50871a193/bin/clang++ \
--DGTEST_HAS_RTTI=0 \
--D__STDC_CONSTANT_MACROS \
--D__STDC_FORMAT_MACROS \
--D__STDC_LIMIT_MACROS \
 -I/Users/tamas/.conan_plex/v2/data/clang-optimized/15.0.4-5c68a1cb/_/_/build/a09a2d141bb7b7c9cc99e80c69408952a85e06ae/build-optimized/lib/Support \
 -I/Users/tamas/.conan_plex/v2/data/llvm-source/15.0.4-5c68a1cb/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/llvm-project-5c68a1cb123161b54b72ce90e7975d95a8eaf2a4/llvm/lib/Support \
 -I/Users/tamas/.conan_plex/v2/data/clang-optimized/15.0.4-5c68a1cb/_/_/build/a09a2d141bb7b7c9cc99e80c69408952a85e06ae/build-optimized/include \
@@ -38,7 +34,6 @@
 -fprofile-instr-use="/Users/tamas/.conan_plex/v2/data/plex-media-server-instr/a02fced20bb3b45f8a0e216eb64b5efd70b85d0a/_/_/package/4432b9719bf16cec157fd0d95cca4e96c83745ec/pms.prof" \
 -flto=thin \
 -O3 \
--DNDEBUG \
 -arch \
 x86_64 \
 -arch \
